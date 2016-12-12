@@ -1,5 +1,7 @@
 /**
  * Created by Wuhou on 2016/12/8.
+ *
+ * This clock can be setted a dirrent scale.
  */
 
 var canvas = document.getElementById("clock");
